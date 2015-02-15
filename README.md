@@ -12,7 +12,7 @@ The only requirement for the demo is Ruby.
 
 Go to [localhost:3000](http://localhost:3000/)
 
-For use the component just replace **url-path** with a path to your own JSON.
+To use the component in your own projects just add the code below, and replace **url-path** with a path to your own JSON.
 
         <script src="//cdnjs.cloudflare.com/ajax/libs/react/0.12.2/react.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
